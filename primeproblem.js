@@ -5,7 +5,7 @@ for(let i=1;i<=5;i++){
      count++;
    }
 }
-if(count=={
+if(count==2)2){
 console.log(n,"is prime")
 }
 else{
