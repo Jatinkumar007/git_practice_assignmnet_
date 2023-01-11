@@ -5,5 +5,6 @@ for(let i=1;i<=5;i++){
      count++;
    }
 }
-
 count==0 ? console.log(n, "is prime"): console.log(n, "is not prime");
+
+
