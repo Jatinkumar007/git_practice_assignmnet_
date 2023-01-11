@@ -5,9 +5,5 @@ for(let i=1;i<=5;i++){
      count++;
    }
 }
-if(count=={
-console.log(n,"is prime")
-}
-else{
-console.log(n,"is not prime")
-}
+
+count==0 ? console.log(n, "is prime"): console.log(n, "is not prime");
